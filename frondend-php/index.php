@@ -129,7 +129,7 @@ if ($stmt) {
             <img src="./pngwing.com.png" alt="Logo"> 
         </div>
     <div class="container">
-        <h1>Listado de Vehículos</h1>
+        <h1>Peacock Automotive - Gestion de Vehiculos</h1>
         <table>
             <thead>
                 <tr>
